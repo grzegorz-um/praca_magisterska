@@ -1,7 +1,25 @@
 # praca_magisterska
 
-### Propozycja tematu: "Implementacja systemu opartego o Big Data do kalkulacji obrotów i cech Klienta"
+### Propozycja tematu: "Przetwarzanie zbiorów danych z wykorzystaniem Apache Hadoop"
 
 
-#### Praca magisterska będzie miała na celu opisanie wdrażania systemu do analizy transakcji oraz cech klientów banku na podstawie dostępnych źródeł danych. W pracy będzie wyszczególnione, jak przebiega projektowanie narzędzia Big Data (wykorzystane technologie, etapy budowy narzędzia, architektura, projektowanie algorytmów, analiza pod kątem uspójnienia wykorzystanych skryptów), oraz jak algorytmy wspierają oraz automatyzują pracę pracowników wykorzystujących informacje o obrotach klientów do podejmowania decyzji.
-##### Opisane zostaną zalety takiego rozwiązania oraz za co poszczególne, wykorzystane technologie odpowiadają.
+
+#### Spis treści
+1. Technologie wspierające przetwarzanie danych Big Data
+  1.1 Big Data - wprowadzenie
+  1.2	Wyzwania biznesowe – zastosowanie Big Data
+  1.3	Ekosystem Big Data
+  1.4	Role w organizacjach
+2. Architektura systemów Big Data na bazie technologii Hadoop
+  2.1	Rozproszony system plików
+  2.2	Rozwiązania on-premise
+  2.3	Rozwiązanie chmurowe
+  2.4	Narzędzia wspierające oraz języki programowania
+3. Analiza rynku w zakresie konkurencyjnych technologii względem Hadoop
+  3.1	Podrozdział 1
+  3.2	Podrozdział 2
+4. Porównanie  technologii Big Data – perspektywy wykorzystania oraz rozwoju
+  4.1	Wybór technologii
+  4.2	Analiza SWOT
+  4.3	Wnioski
+
