@@ -1,6 +1,6 @@
 # praca_magisterska
 
-### Propozycja tematu: "Przetwarzanie zbiorów danych z wykorzystaniem Apache Hadoop"
+### Propozycja tematu: "Technologoiczne i biznesowe korzyści przeniesienia środowiska obliczeniowego Big Data do chmury. Technologie chmurowe vs środowisko on-premise."
 
 
 
